@@ -10,6 +10,10 @@ SlowRenju supports the rules of Freestyle Gomoku, Standard Gomoku and Renju, on 
 
 Homepage of SlowRenju: [https://www.wind23.com/gomokuai.html](https://www.wind23.com/gomokuai.html)
 
+# Author
+
+ - [Tianyi Hao](https://www.wind23.com/), haotianyi0@126.com
+
 # Acknowledgement
 
 Thanks to the friends who have been helping with the development of SlowRenju constantly:
